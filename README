@@ -1,0 +1,104 @@
+---Description---
+
+Credit for the movement should go to the late Mr. Longworth of the Hunter Valley Woodturning Club, New South Wales, Australia.
+
+Thanks to Hexitex for turning Mr. Longworth's desgin into a printable design.
+
+All the files are oriented and scaled for printing already.
+
+Changes
+
+I Reduced its diameter to 85mm and changed it to a three jaw design. I then designed a system to lock it with out a wrench.
+
+How the lock works
+
+The front face is now supported by three short lengths of 5/16" (8mm) smooth rod that go through large holes in the guide and sit against the base. When you turn the lock ring it turns the planets/nuts that pull the guide back and it pulls the screws holding the jaws back against the now supported face.
+
+( you could eliminate the smooth rods by making the outside of the face extend back far enough to rest on the lip of the base. )
+
+Updates
+jun 10/11 . Added jaw_guide.stl It keeps the jaws aligned while tightening.
+
+jun 9/11 . Replaced jaws with angled jaws inspired by MarkU's design thingiverse.com/thing:9186 except mine are sloped on both sides so only one set is needed.
+
+Video
+youtube.com/watch?v=V_vG_LOLz4s
+Instructions
+
+--Four jaw version--
+
+Simplified keyless chuck NOW WITH FOUR JAWS !!!!!!!!
+
+This is untested but based on a working design.
+
+I started over this time to guarantee symmetry.
+
+Removed the need for smooth metal rod.
+
+Increased thickness of face plate.
+
+Added fourth jaw.
+
+Increased ring gear strength.
+
+Removed the need for machine screws with screw head or socket head. You can now use hex head bolts.
+
+Only uses 8 machine screws / bolts with nuts.
+
+Eight washers optional. (under planet gears and under the heads of the sliding jaw bolts)
+
+Four springs optional. (between piston and base
+
+---Instructions---
+
+Printing
+Turn off all extra shells when printing the gears and lock ring so you end up with solid teeth.
+
+B.O.M.
+
+six no.6 machine screws 2" long
+six no.6 nuts.
+one 5/16 nut (8mm nut)
+three small thin washers
+three pieces of 5/16 (8mm) smooth rod cut to 1.125" (28.5mm)
+three springs (optional)
+
+Test assemble all pieces and sand, shave, drill anything that causes friction.
+
+Final assembly instructions
+
+
+1) Install three screws in countersunk holes of guide. (slide springs over protruding screws)
+
+2) Install three screws through slots in the guide the opposite direction as previous screws.
+
+4) Install 5/16" (8mm) nut in the center of the base.
+
+5) Install guide in to base being sure screws slide easily through holes in base.
+
+6) Install nuts in planetary gears.
+
+7) Install one planetary gear. You may want thin washers under the gears
+
+8) Install lock ring and the second planetary gear.
+
+9) Install third planetary gear by turning the last screw with a screwdriver.
+
+10) Tighten all planetary gears evenly using screwdriver.
+
+11) Glue screw heads to guide to ensure they don't turn any more.
+
+12) Cut three pieces of 5/16 (8mm) smooth rod 1.125" (28.5mm) and slide them into holes in the guide.
+
+13) Install face over the three screws protruding from slots in the guide.
+
+14) Slide Jaw guide over protruding machine screws.
+
+15) Install nuts in jaws and screw them to the screws protruding through face.
+
+16) Loosen lock ring three turns.
+
+17) Tighten jaw against the face until they are even.
+
+18) Tighten lock ring until jaws are close to the face.
+
